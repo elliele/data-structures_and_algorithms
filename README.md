@@ -1,7 +1,7 @@
 Data Structures & Algorthims in Python
 
 # Objective
-Completed exercises from Data Structures &amp; Algorithms in Python by Goodrich.
+Completed exercises from Data Structures &amp; Algorithms in Python by Goodrich
 
 ## Source
 
